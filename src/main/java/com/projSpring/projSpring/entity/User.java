@@ -1,4 +1,4 @@
-package com.projSpring.projSpring.Entidades;
+package com.projSpring.projSpring.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
